@@ -1,0 +1,91 @@
+body{
+	background-image: url(fond.png); 
+}
+
+
+
+h1{
+	position: absolute;
+	top: 5%;
+	text-align: center;
+	width: 100%;
+}
+
+.logo-esme img
+{
+	position: absolute;
+	width:9%;
+	height:14%;
+	right: 1%;
+	top: 3%;
+	opacity: 0.5;
+}
+
+
+.vinci img
+{
+	position: absolute;
+	width:9%;
+	height:8%;
+	left: 29%;
+	top: 47%;
+}
+
+.spie img
+{
+	position: absolute;
+	width:8%;
+	height:-3%;
+	left: 40%;
+	top: 43%;
+}
+
+.veolia img
+{
+	position: absolute;
+	width:9%;
+	height:11%;
+	left: 50%;
+	top: 46%;
+}
+
+.dekra img
+{
+	position: absolute;
+	width:5%;
+	height:10%;
+	left: 62%;
+	top: 46%;
+}
+
+.bouygues img
+{
+	position: absolute;
+	width:8%;
+	height:10%;
+	left: 71%;
+	top: 46%;
+}
+
+
+.text
+{
+	position: absolute;
+	top: 15%;
+	text-align: center;
+	width: 100%;
+	font-size: 190%;
+}
+
+footer
+{
+	position: absolute;
+	text-align: center;
+	width: 98%;
+	font-family: "Times New Roman";
+	font-family: italic;
+	font-weight: bold;
+	font-size: 60%;
+	margin-bottom: 10%;
+	margin-top: 40%;
+}
