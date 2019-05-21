@@ -1,0 +1,1 @@
+variable "scw_token" {}
